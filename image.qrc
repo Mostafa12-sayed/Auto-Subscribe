@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>image/صور ايقونات/left-arrow.png</file>
+    <file>image/صور ايقونات/question.png</file>
+    <file>image/صور ايقونات/exit.png</file>
+    <file>image/صور ايقونات/help.png</file>
+    <file>image/صور ايقونات/telegram .png</file>
+    <file>image/صور ايقونات/AutoSubscribe logo.png</file>
+    <file>image/صور ايقونات/Capture.PNG</file>
+    <file>image/صور ايقونات/facebook.png</file>
+    <file>image/صور ايقونات/gmail icon.png</file>
+    <file>image/صور ايقونات/gmail.png</file>
+    <file>image/صور ايقونات/hotmail icon.png</file>
+    <file>image/صور ايقونات/hotmail.png</file>
+    <file>image/صور ايقونات/instagram.png</file>
+    <file>image/صور ايقونات/linkedin.png</file>
+    <file>image/صور ايقونات/Microsoft icon.png</file>
+    <file>image/صور ايقونات/Microsoft.png</file>
+    <file>image/صور ايقونات/Mypic.jpg</file>
+    <file>image/صور ايقونات/outlook icon.png</file>
+    <file>image/صور ايقونات/outlook.png</file>
+    <file>image/صور ايقونات/profile copy.png</file>
+    <file>image/صور ايقونات/telegram.png</file>
+    <file>image/صور ايقونات/whatsapp.png</file>
+    <file>image/صور ايقونات/yahoo icon.png</file>
+    <file>image/صور ايقونات/yahoo.png</file>
+    <file>image/صور ايقونات/AutoSubscribe logo.png</file>
+  </qresource>
+</RCC>
